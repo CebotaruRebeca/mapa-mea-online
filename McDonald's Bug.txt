@@ -1,0 +1,45 @@
+Nume: click pe insigna ,,Instagram ,, 
+
+Descriere: Utilizatorul da click pe insigna ,,Instagram ,, si nu este directionat pe pagina corespunzatoare
+
+Preconditii
+
+ -computer
+
+ -acces la internet
+
+ -browser
+
+Mediul de testare: https://kiosk.mcdonalds.md/ 
+
+Pasi de testare: 
+
+1.Porneste dispozitivul
+
+2.Conecteaza reteaua de internet
+
+3.Deschide brawserul
+
+4.Tapeaza ,https://kiosk.mcdonalds.md/ ,, in bara de cautare
+
+5.Apasa tasta ,,Enter,,
+
+6.Localizeaza pictograma ,,Instragram,,
+
+7.Da click pe pictograma ,,Instagram,,
+
+Rezultatul asteptat: Utilizatorul poate da click pe insigna ,,Instagram ,, si este redictionat spre paginile corespunzatoare
+
+Rezultatul actual:  Utilizatorul poate da click pe insigna ,,Instagram ,,insa NU este redictionat spre pagina corespunzatoare
+
+Incercari de a repeta: 0 - (se reproduce de fiecare data)
+
+Atasament: 2.jpeg 
+
+Numele QA:
+
+Nume programator:
+
+Severitate: 10/10
+
+Prioritate: 1/10
