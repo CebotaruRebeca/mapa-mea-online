@@ -1,0 +1,69 @@
+Nume: Utilizatorul isi poate sterge propriul sau comentariu
+
+Descriere: utilizatorul isi poate sterge propriu sau comentariu, utilizind versiunea computer
+
+Tipul test case: UI, Security, Usability, Compability
+
+Priotitate: 3/10
+
+Statut de automatizare: nu
+
+Preconditii: 
+
+ -Dispozitiv computer
+
+ -Internet acces
+
+ -Browser
+
+ -cont pe YouTube logat   
+
+Mediu de testare: www.youtube.com, setat in limba Engleza
+
+Pasii de testare:
+
+1.Porneste dispozitivul
+
+2.Conecteaza-te la internet
+
+3.Deschide browser-ul
+
+4.Tapeaza textul “ youtube.com” in bara de cautare
+
+5.Apasa tasta “Enter”
+
+6.Da click pe unul din videourile accesate
+
+7.Localizeaza sectiunea de comentarii
+
+8.Da click pe place holder “add a comment…”
+
+9.Tapeaza textul “Good song”
+
+10.Da click pe butonul “Comment”
+
+11.Localizeaza meniul kebab
+
+12.Da click pe meniul kebab
+
+13.Da click pe butonul “Delete”
+
+14.Da click pe butonul “Delete"
+
+Rezultatul asteptat: utilizatorul isi poate sterge propriu sau comentariu
+
+Rezultatul actual: utilizatorul isi poate sterge propriu sau comentariu
+
+Test data:   
+
+“www.youtube.com” in calitate de adresa de productie
+
+“Good song” in calitate de comentariu
+
+Atasament: 1.jph
+
+Statut de executare: Passed
+
+Numele QA: Cebotaru Rebeca
+
+Data si ora: 30.11.2025  11:49
