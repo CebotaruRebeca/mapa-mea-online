@@ -1,0 +1,58 @@
+Name: Jucatorul poate sarii peste primul tub
+
+Description: Jucatorul poate sarii peste primul tub
+
+Test case type: UI, Compability, Usability, Black-box, positive
+
+Priority: High
+
+Automation status: no
+
+Preconditions:
+
+ -dispozitiv smartphone
+
+ -acces internet
+
+ -browser
+
+ -jocul instalat
+
+ -treiningul/tutorialul trecut
+
+Test environment: Super Mario Run App - App Store, setat in limba engleza
+
+Test steps:
+
+1.Porneste dispozitivul
+
+2.Conecteaza la reteaua de internet
+
+3.Deschide jocul
+
+4.Atinge ecranul
+
+5.Atinge pe primul nivel
+
+6.Atinge butonul “verde”
+
+7.Asteapta pina ajungi la primul tub
+
+8.Tine apasat pentru a sarii
+
+Rezultatul asteptat: Locatorul poate sarii peste primul tub
+
+Rezultatul actual: Locatorul poate sarii peste primul tub
+
+Test data: non-appplicabile
+
+Atasament: 
+
+image-20251206-105531.png
+ 
+
+Statut de executare: Passed
+
+Nume QA: Cebotaru Rebeca
+
+Data/Ora: 06.12.2025/10:56
