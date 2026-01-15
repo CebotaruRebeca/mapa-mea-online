@@ -1,0 +1,61 @@
+Name: Utilizatorul nu poate deselecta toate ingredientele
+
+Description: Utilizatorul nu poate deselecta toate ingredientele
+
+Test case type: Usability, compability
+
+Priority: medium
+
+Automation status: no
+
+Preconditions:
+
+ -dispozitiv camputer
+
+ -acces internet
+
+ -browser
+
+Test environment: https://kiosk.mcdonalds.md/ , setat in limba romina
+
+Test steps:
+
+1.Porneste dispozitivul
+
+2.Conecteaza la reteaua de internet
+
+3.Deschide browserul
+
+4.Tapeaza in bara de cautare https://kiosk.mcdonalds.md/ 
+
+5.Apasa tasta “Enter” 
+
+6.Da scroll pina la “Sandvisuri si McWrap”, click pe el
+
+7.Click pe “sandvisuri cu carne de vita”
+
+8.Click pe “cheeseburger”
+
+9.Click pe “da”
+
+10.Click pe cosul de cumparaturi sus in dreapta
+
+11.Click pe “personalizeaza”
+
+12.Click pe toate butoanele de selectare ca sa fie deselectate
+
+13.Click pe butonul “Aplica”
+
+Rezultatul asteptat: Utilizatorul nu poate deselecta toate ingredientele
+
+Rezultatul actual: Utilizatorul nu poate deselecta toate ingredientele
+
+Test data: https://kiosk.mcdonalds.md/ 
+
+Atasament: https://app.screencastify.com/watch/e0PQ5BTtL6T9uyWIcVlh?checkOrg=4c0d86a0-3e9d-47d5-94cf-7124f1ec5596 
+
+Statut de executare: Passed
+
+Nume QA: Cebotaru Rebeca
+
+Data/Ora: 06.12.2025/10:56
