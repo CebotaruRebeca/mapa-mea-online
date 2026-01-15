@@ -1,0 +1,28 @@
+Utilizatorul poate plasa o recenzie
+
+
+Description
+
+Feature: Plasare recenzie
+
+Scenario: Utilizatorul poate plasa o recenzie
+
+ 
+
+GIVEN: Utilizatorul logat se afla in sectiunea de recenzii a unui video
+
+WHEN(ce pasi trebuie sa faca): Utilizatorul tapeaza textul ‘'Bravo’' in sectiunea de recenzie
+
+AND: Utilizatorul da click la 5 stele
+
+AND: Utilizatorul da click pe butonul ‘'Lasa o recenzie''
+
+THEN(ce ar trebui sa se intample): Utilizatorul poate plasa o recenzie
+
+WHEN(ce pasi trebuie sa faca): Utilizatorul tapeaza textul ‘'Minunat’' in sectiunea de recenzie
+
+AND: Utilizatorul da click la recenzie
+
+AND: Utilizatorul da click pe butonul ‘'Lasa o recenzie''
+
+THEN(ce ar trebui sa se intample): Utilizatorul poate plasa o recenzie
