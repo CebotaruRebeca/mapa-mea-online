@@ -1,0 +1,68 @@
+Nume: Poate fi schimbat numele afisat a utilizatorului existent
+
+Descriere: Poate fi schimbat numele afisat a utilizatorului existent
+
+Tipul de test: Positiv, UI, Black-box, Compatibility, Usability, Security
+
+Prioritate: Mediu
+
+Status de automatizare: Nu
+
+Preconditii: 
+
+ -dispozitiv computer
+
+ -acces la reateaua de internet
+
+ -browser versiunea “FireFox”
+
+ -cont logat
+
+Mediu de testare: https://x.com/  setat in limba engleza
+
+Pasii de testare:
+
+1.Porneste dispozitivul
+
+2.Conecteaza-te la internet
+
+3.Deschide Firefox
+
+4.Tapeaza in bara de cautare: X.com
+
+5.Apasa tasta “Enter”
+
+6.Autentificare
+
+7.Click pe “Profile”, din meniul de navigare lateral sting
+
+8.Click pe “Edit profile”
+
+9.Click pe bara “Name”
+
+10.Sterge numele actual
+
+11.Tapeaza “!@#$%^&*” in bara goala
+
+12.Click pe “Save”
+
+Rezultatul asteptat: Poate fi schimbat numele afisat a utilizatorului existent
+
+Rezultatul actual: Poate fi schimbat numele afisat a utilizatorului existent
+
+Status de executare: Passed
+
+Test data:
+
+ https://x.com
+
+ “!@#$%^&*”
+
+Attachment:
+
+twiter-20251206-140222.PNG
+ 
+
+Nume QA: Cebotaru Rebeca
+
+Data/Ora: 06.12.2025/15:50
