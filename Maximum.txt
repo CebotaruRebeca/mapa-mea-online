@@ -1,0 +1,63 @@
+Nume: Utilizatorul poate plasa o recenzie
+
+Descriere: Utilizatorul poate plasa o recenzie
+
+Prioritatea: Medie
+
+Test case tip: Usability, Black-box, Positive
+
+Status de automatizare: Nu
+
+Preconditii:
+
+ -Dispozitiv
+
+ -Acces la internet
+
+ -Browser
+
+ -Cont logat
+
+Mediu de testare: www.maximum.md, setat in limba romina
+
+Pasii de testare:
+
+1.Porneste dispozitivul
+
+2.Conecteaza-te la internet
+
+3.Deschide browserul
+
+4.Tapeaza www.maximum.md in bara de cautare
+
+5.Apasa tasta “Enter”
+
+6.Localizeaza oricare produs
+
+7.Click pe el
+
+8.Click pe sectiunea: “Recenzii”
+
+9.In sectiunea de text tapeaza: “produs de calitate'
+
+10.Click pe 5 stelute
+
+11.Click pe “Lasa o recenzie”
+
+Rezultatul asteptat: Utilizatorul poate plasa o recenzie
+
+Rezultatul actual: Utilizatorul poate plasa o recenzie
+
+Status de executare: Passed
+
+Test data:
+
+In calitate de adresa de productie: www.maximum.md 
+
+In calitate de recenzie:  “produs de calitate”
+
+Atasament: jpg.org
+
+Nume QA: Cebotaru Rebeca
+
+Data/Ora: 07.12.2025/11:50
