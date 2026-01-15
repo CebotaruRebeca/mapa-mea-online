@@ -1,0 +1,47 @@
+Nume: Butonul: "Add to backet" nu adauga produsul in cos
+
+Descriere: Butonul: "Add to backet" nu adauga produsul in cos
+
+Preconditii: 
+
+ -dispozitiv computer
+
+ -acces la internet
+
+ -browser
+
+Mediu de testare: “amazon.co.uk”, setat in limba engleza
+
+Pasii de reproducere: 
+
+1.Porneste dispozitivul
+
+2.Conecteaza la reteaua de internet
+
+3.Deschide browserul
+
+4.Tapeaza textul: “amazon.co.uk” in bara de cautare
+
+5.Click pe “ Enter”
+
+6.Click pe orice produs din lenta
+
+7.Click pe “Add to basket”
+
+Rezultatul asteptat: Butonul: "Add to backet" adauga produsul in cos
+
+Rezultatul actual: Butonul: "Add to backet" nu adauga produsul in cos
+
+Incercari de a se repeta: 0, se reproduce din prima
+
+Severitate: 10/10
+
+Prioritate: 10/10
+
+Attachment: jpg.org
+
+Nume QA: Cebotaru Rebeca
+
+Nume programator: Alexei Popovici
+
+Data/Ora: 11.12.25/11:35
