@@ -1,0 +1,79 @@
+Nume: Utilizatorul nu poate schimba e-mailul participantului
+
+Descriere: Utilizatorul nu poate schimba e-mailul participantului
+
+Prioritate: High
+
+Preconditii:
+
+ -Dispozitiv computer
+
+ -Acces internet
+
+ -Aplicatia Postman instalata
+
+ -Datele despre participant:
+
+{
+    "firstName": "Johy",
+    "lastName": "....",
+    "picture": "https://randomuser.me/api/portraits/med/men/32.jpg",
+    "gender": "male",
+    "email": "johy.williaswedrfghjklms9876@gmail.com"
+}
+
+ -Datele de autorizare: “app-id” si “62dac3815b42217c2816e6fa”
+
+Mediu de testare:
+
+ “https://dummyapi.io/data/v1/user/693e8cc3c013b8284f915319”
+
+Pasii de testare:
+
+1.Porneste dispozitivul
+
+2.Conecteaza-te la internet
+
+3.Deschide aplicatia “Postman”
+
+4.Selecteazi “Put” in calitate de metoda
+
+5.Tapeaza “https://dummyapi.io/data/v1/user/693e8cc3c013b8284f915319” in calitate de adresa API
+
+6.Tapeaza urmatorul text in sectiunea “Body”, in format: “row”, “JASON”
+
+{
+    "firstName": "Johy",
+    "lastName": "....",
+    "picture": "https://randomuser.me/api/portraits/med/men/32.jpg",
+    "gender": "male",
+    "email": "johy.rebeca567899876@gmail.com"
+}
+
+7. Intra in sectiunea: “headers”
+
+8.Insereaza in sectiunea “key”: “app-id” si in sectiunea:“value”: “62dac3815b42217c2816e6fa”
+
+9.Click pe butonul: “Send”
+
+Rezultatul asteptat: Utilizatorul poate schimba e-mailul participantului
+
+Rezultatul actual: Utilizatorul nu poate schimba e-mailul participantului
+
+Atasament:
+
+image-20251214-103922.png
+
+Statut de executare: Failed
+
+Incercari de a repeta: 0
+
+Nume QA: Cebotaru Rebeca
+
+Nume Programator: Alexei Popovici
+
+Dara/Ora: 14.12.25/ 12:07
+
+Severitate:10/10
+
+Prioritate: 10/10
