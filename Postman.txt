@@ -1,0 +1,89 @@
+Nume: Utilizatorul nu poate creea un participant nou cu numele de familie: "...."
+
+Descriere: Utilizatorul nu poate creea un participant nou cu numele de familie: "...."
+
+Tipul test case: Black-box, Security, Negative, Smoke
+
+Prioritate: High
+
+Statut de automatizare: Nu
+
+Preconditii:
+
+ -Dispozitiv computer
+
+ -Acces internet
+
+ -Aplicatia Postman instalata
+
+ -Datele despre participant nou: 
+
+{
+    "firstName": "Johy",
+    "lastName": "....",
+    "picture": "https://randomuser.me/api/portraits/med/men/32.jpg",
+    "gender": "male",
+    "email": "johy.williaswedrfghjklms9876@gmail.com"
+}
+
+ -Datele de autorizare: “app-id” si “62dac3815b42217c2816e6fa”
+
+Mediu de testare: 
+
+ “https://dummyapi.io/data/v1/user/create”
+
+Pasii de testare:
+
+1.Porneste dispozitivul
+
+2.Conecteaza-te la internet
+
+3.Deschide aplicatia “Postman”
+
+4.Selecteazi “Post” in calitate de metoda
+
+5.Tapeaza “https://dummyapi.io/data/v1/user/create” in calitate de adresa API
+
+6.Tapeaza urmatorul text in sectiunea “Body”, in format: “row”, “JASON”
+
+{
+    "firstName": "Johy",
+    "lastName": "....",
+    "picture": "https://randomuser.me/api/portraits/med/men/32.jpg",
+    "gender": "male",
+    "email": "johy.williaswedrfghjklms9876@gmail.com"
+}
+
+7. Intra in sectiunea: “headers”
+
+8.Insereaza in sectiunea “key”: “app-id” iar in sectiunea:“value”: “62dac3815b42217c2816e6fa”
+
+9.Click pe butonul: “Send”
+
+Rezultatul asteptat: Utilizatorul nu poate creea un participant nou cu numele de familie: "...."
+
+Rezultatul actual: Utilizatorul poate poate creea un participant nou cu numele de familie: "...."
+
+Test data:
+
+ “https://dummyapi.io/data/v1/user/create”
+
+“app-id” si “62dac3815b42217c2816e6fa”
+
+{
+    "firstName": "Johy",
+    "lastName": "....",
+    "picture": "https://randomuser.me/api/portraits/med/men/32.jpg",
+    "gender": "male",
+    "email": "johy.williaswedrfghjklms9876@gmail.com"
+}
+
+Atasament: 
+
+image-20251214-100820.png
+ 
+Statut de executare: Failed
+
+Nume QA: Cebotaru Rebeca
+
+Dara/Ora: 14.12.25/ 12:07
