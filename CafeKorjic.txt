@@ -1,0 +1,55 @@
+Name: Utilizatorul nu poate adauga in cosul de cumparaturi produse cu o valoare mai mare de 100.000 lei
+
+Description: Utilizatorul nu poate adauga in cosul de cumparaturi produse cu o valoare mai mare de 100.000 lei
+
+Test case type: Usability, Compability, Equivalence Partitioning
+
+Priority: low
+
+Automation status: no
+
+Preconditii
+
+ -computer
+
+ -acces la internet
+
+ -browser
+
+Mediu de testare: “www.korjik.md”, in limba rusa
+
+Pasii de testare:
+
+1.Porneste dispozitivul 
+
+2.Conecteaza-te la internet
+
+3.Deschide browserul
+
+4.tapeaza in bara de cautare: Cafe Korjik ”
+
+5.Apasa tasta “Enter”
+
+6.Click pe Cafe Korjik ”
+
+7.Click pe “Мясо”
+
+8.Scroll in jos pina la “Плато Бейкер-стрит“, click pe el
+
+9.Click pe cos sus in dreapta
+
+10.Localizeaza selectorul de cantitate
+
+11.Tapeaza in el numarul: “668”
+
+12.Click pe “Заказать“
+
+Rezultatul asteptat: Utilizatorul nu poate adauga in cosul de cumparaturi produse cu o valoare mai mare de 100.000 lei
+
+Rezultatul actual: Utilizatorul poate adauga in cosul de cumparaturi produse cu o valoare mai mare de 100.000 lei
+
+Status de executare: Fail
+
+Nume QA: Cebotaru Rebeca
+
+Data/Ora: 06.12.2025/10:56
