@@ -1,0 +1,61 @@
+Name: Utilizatorul se poate loga pe Facebook
+
+Description: Utilizatorul se poate loga pe Facebook, utilizind versiunea smartphone
+
+Test case type: UI, Positive, Black-box, Usability, Compability, Security
+
+Priority: High 
+
+Automation status: No
+
+Preconditions: 
+
+ -Dispozitiv smartphone 
+
+ -Internet acces
+
+ -Browser
+
+ -User has a valid Facebook account
+
+Test environment: “Facebook.com” in Romanian language
+
+Test steps: 
+
+1.Porneste dispozitivul
+
+2.Conecteaza la reteaua de internet
+
+3.Deschide browserul
+
+4.Tapeaza textul ‘'Facebook.com” in bara de cautare
+
+5.Apasa tasta ''Cautare''
+
+6.Click pe “Facebook'
+
+7.Click pe “Numar de mobil sau e-mail”
+
+8.In campul gol introdu loginul: “fb_username_@gmail.com
+
+9.Click pe “Parola”
+
+10.In campul gol introdu parola: “Password Valid”
+
+11.Click pe “Conectare”
+
+Expected result: Utilizatorul se poate loga pe Facebook
+
+Actual result: Utilizatorul se poate loga pe Facebook
+
+Test data:
+
+“Facebook.com” in calitate de adresa de productie
+
+Atasament: 2.jpg
+
+Execution status: Passed
+
+Name of QA: Cebotaru Rebeca
+
+Data & Time: 02.12.25; 1:20
