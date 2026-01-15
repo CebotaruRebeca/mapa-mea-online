@@ -1,0 +1,61 @@
+30 DE VERIFICARI CU PRIVIRE LA PRIMA PAGINA NETFLIX :
+
+verifica daca logoul este afisat check mark button 
+
+verifica daca logoul este scris cu majuscule check mark button 
+
+verifica daca logoul este de culoare rosie check mark button 
+
+verifica daca pozitia logoului este in partea stinga sus check mark button 
+
+verifica daca elementul de schimbare a limbii este amplasat check mark button 
+
+verifica daca textul paginii se traducecheck mark button  
+
+verifica daca titlul “Netflix Moldova” este afisatcheck mark button  
+
+verifica daca paragraful urmator este afisat: “Acces nelimitat la filme, seriale și multe altele”check mark button  
+
+verifica daca subparagraful este afisatcheck mark button  
+
+verifica daca este amplasat elementul: “Adresa de e-mail”check mark button  
+
+verifica daca este amplasat elementul: “Incepe”check mark button  
+
+verifica daca poti da click pe oricare din filmecheck mark button  
+
+verifica daca poti face scroll in joscheck mark button  
+
+verifica daca functioneaza sectiunea “Ce este Netflix”check mark button  
+
+verifica daca functioneaza sectiunea “Cit costa serviciul Netflix”check mark button  
+
+verifica daca functioneaza sectiunea “Unde pot viziona”check mark button  
+
+verifica daca functioneaza sectiunea “Cum anulez”check mark button  
+
+verifica daca functioneaza sectiunea “Ce pot viziona pe netflix”check mark button  
+
+verifica daca functioneaza sectiunea “Este Netflix adecvat copiilor?”check mark button  
+
+verifica daca functioneaza sectiunea “De ce se afiseaza aceasta limba”check mark button  
+
+verifica daca funcioneaza sectiunea: “Ai intrebari? Conecteaza-ne.”check mark button  
+
+verifica daca este amplasat: “Intrebari frecvente”check mark button  
+
+verifica daca sectiunea de motive este amplasatacheck mark button  
+
+verifica daca este amplasat in josul paginii sectiunea : “Cont”check mark button  
+
+verifica daca este amplasat in josul paginii sectiunea : “Asistenta”check mark button  
+
+verifica daca textul paginii este de culoare albacheck mark button  
+
+verifica daca fundalul paginii este de culoare neagracheck mark button  
+
+verifica daca sectiunea de reactivare a abonamentului este prezentacheck mark button  
+
+verifica daca sectiunea de reactivare a abonamentului functioneazacheck mark button  
+
+verifica daca textul: “/md” este adaugat in adresa sitului pentru utilizatorii din moldovacheck mark button
