@@ -1,0 +1,73 @@
+Name: User can add 999 iphones in the shopping cart
+
+Description: User can add 999 iphones in the shopping cart, having the following parameters, model 17 Pro Max, memory 1Tb, space silver color, without insurance, sim free, one time paymant, no trade-in option
+
+Priority: Low
+
+Test case type: UI, Positive, Usability, Black-box, Performance Load
+
+Automation status: No
+
+Preconditions: 
+
+ -Device
+
+ -Browser
+
+ -Internet acces
+
+Test environment: www.apple.com set in english
+
+Test steps:
+
+1.Turn on the device
+
+2.Connect the internet
+
+3.Open the web browser
+
+4.Tipe “www.apple.com in the search bar
+
+5.Press the “Enter” key
+
+6.Click the “Iphone” menu option
+
+7.Click on the “Iphone 17 Pro”
+
+8.Scroll down until the button “Buy”
+
+9.Click on the “Buy” button
+
+10.Click on the model “Iphone 17 pro Max”
+
+11.Click the “Silver” color option
+
+12.Click on the 1Tb memory option
+
+13.Click on the “No trade-in” option
+
+14.Click on the “Buy” option
+
+15.Click on the “Connect to any carrier later” option
+
+16.Click on the “No AppleCare coverage” option
+
+17.Click on the “Add to Bag” option
+
+18.Click on the “Review Bag” option
+
+19.Click on the quantity option
+
+Test data: www.apple.com as a production URL
+
+Expected result: User can add 999 iphones in the shopping cart
+
+Actual result: User can’t add 999 iphones in the shopping cart
+
+Execution status: Failed
+
+Attachment: jpg.org
+
+Name of QA: Cebotaru Rebeca
+
+Data/Time: 07.12.25/11:19
